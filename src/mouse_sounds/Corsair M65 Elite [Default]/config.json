@@ -1,0 +1,12 @@
+{
+    "name": "Logitech_G_Pro_X_",
+    "defines": {
+      "Button.left": "left-down.mp3",
+      "Button.right": "right-down.mp3",
+      "Button.middle": "scroll-down.mp3",
+      "Button.back": "left-up.mp3",
+      "Button.forward": "right-up.mp3",
+      "Button.x1": "",
+      "Button.x2": ""
+    }
+}
